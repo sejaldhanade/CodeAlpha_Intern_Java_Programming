@@ -52,9 +52,9 @@ Hotel Reservation System is a Java-based application that allows users to check 
 
 
 ### Author
-Achint Gajghate
+Sejal Dhanade
 
-B.Tech Information Technology
+B.Tech CSE(IOT)
 
 Yeshwantrao Chavan College of Engineering (YCCE)
 
