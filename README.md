@@ -33,6 +33,24 @@ Average Marks = 81.66
 Highest Marks = 95
 Lowest Marks = 70
 
+## Task 2: Hotel Reservation System
+
+### Description
+Hotel Reservation System is a Java-based application that allows users to check room availability and book hotel rooms.
+
+### Features
+- View available rooms
+- Book rooms
+- Exit system
+- Menu-driven interface
+
+### Technologies Used
+- Java
+- Scanner Class
+- Loops
+- Switch Case
+
+
 ### Author
 Achint Gajghate
 
